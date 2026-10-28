@@ -34,7 +34,6 @@ Existe una relación de **herencia**, porque las modalidades especiales son tipo
 
 **[Ver el programa de herencia múltiple (`herencia_multiple.py`)](./herencia_multiple.py)**
 
-El archivo incluye las dos versiones de matrícula combinada y muestra el orden de resolución de métodos (MRO) correspondiente a cada una.
 
 ### 4. Cálculo de cuánto pagó cada estudiante
 
@@ -63,8 +62,6 @@ TOTAL:                       S/ 60.00
 ```
 
 **Cálculo:** `(60 × 0.50) + 15 + 15 = S/ 60.00`
-
-> **Nota:** El enunciado no especifica qué versión se aplicó a cada estudiante. Si se asigna la primera versión a Luis y la segunda a Rosa, Luis pagaría **S/ 45.00** y Rosa **S/ 60.00**.
 
 ### 5. Explicación de la causa de la diferencia
 
