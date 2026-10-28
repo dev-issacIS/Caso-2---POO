@@ -129,9 +129,3 @@ Este criterio permite mantener el beneficio de la beca y, al mismo tiempo, respo
 | [`herencia_multiple.py`](./herencia_multiple.py) | Programa original con las dos versiones de herencia múltiple y sus MRO. |
 | [`composicion.py`](./composicion.py) | Propuesta de rediseño con ajustes aplicados en orden explícito. |
 
-Para ejecutar los programas desde la terminal:
-
-```bash
-python herencia_multiple.py
-python composicion.py
-```
